@@ -1,0 +1,26 @@
+.Body{
+    width: 100vw;
+    height: 80vh;
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: top;
+}
+.BodyHeader{
+    width: 100vw;
+    height: 20vh;
+    background-color: white;
+    display: flex;
+    flex-direction:row;
+    
+}
+
+.BodyHeaderItem{
+    width: 50vw;
+    height: 20vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
