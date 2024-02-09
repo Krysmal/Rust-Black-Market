@@ -4,8 +4,14 @@
     width: 100vw;
     margin-top: 0;
     display: flex; 
-    flex-direction: column;
+    flex-direction: row;
     color:white;
-    text-indent: 15vh;
-    text
-}
+    text-indent: 35vh;
+
+ 
+ 
+} 
+ 
+    img {
+    width: 150px;
+     }  
