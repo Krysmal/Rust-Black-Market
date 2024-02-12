@@ -1,15 +1,8 @@
 .App {
-  
-  body {
-    margin: 0;
-    font-family: Arial, sans-serif;
-  }
+display: flex; 
+flex-direction: column;
 
-  header {
-    background-color: #333;
-    color: rgb(12, 11, 29);
-    padding: 1em;
-    text-align: center;
-  }
+
 }
+
 
